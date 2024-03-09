@@ -142,14 +142,6 @@
           "role": "developper",
           "image": "assets/images/layout_img/souhail_borni.jpg",
           "linkdin": "https://www.linkedin.com/in/salma-rouissi-bb1271259/"
-        },
-        {
-          "id": 11,
-          "lastName": "roussi",
-          "firstName": "ghjkl",
-          "role": "Technical lead",
-          "image": "assets/images/layout_img/profile.jpg",
-          "linkdin": "gbhnj,ik;l"
         }
       ],
       "id": "4"
@@ -186,63 +178,64 @@
           "linkdin": "https://www.linkedin.com/in/salma-rouissi-bb1271259/"
         },
         {
-          "id": 16,
-          "lastName": "val",
-          "firstName": "vak",
-          "role": "Technical lead",
-          "image": "assets/images/layout_img/profile.jpg",
-          "linkdin": "gbhnj,ik;l"
-        },
-        {
-          "id": 17,
-          "lastName": "vak",
-          "firstName": "val",
+          "id": 21,
+          "lastName": "frgttbg55454",
+          "firstName": "b",
           "role": "Developpeur",
           "image": "assets/images/layout_img/profile.jpg",
-          "linkdin": "gbhnj,ik;l"
-        },
-        {
-          "id": 18,
-          "lastName": "bouch",
-          "firstName": "abdeltig",
-          "role": "Developpeur",
-          "image": "assets/images/layout_img/profile.jpg",
-          "linkdin": "gbhnj,ik;l"
+          "linkdin": "c"
         }
       ]
     },
     {
       "id": "6",
-      "name": "hhhh",
-      "technology": "hhhhhhhhhhhh",
-      "description": "hhhhhhh",
+      "name": "soutenance",
+      "technology": "informatique",
+      "description": "iset charguia",
       "image": "assets/images/activite/activite.jpg",
       "equipe": [
         {
-          "firstName": "roussi",
-          "lastName": "roussaaaaaaaa",
+          "id": 23,
+          "lastName": "Abdelatif",
+          "firstName": "Bouchaala",
           "role": "Technical lead",
           "image": "assets/images/layout_img/profile.jpg",
-          "linkdin": "c",
-          "id": 13
+          "linkdin": "aa"
         },
         {
-          "id": 14,
-          "firstName": "frgttbg55454",
-          "lastName": "bouc",
-          "role": "Technical lead",
+          "id": 24,
+          "lastName": "Abdelatif",
+          "firstName": "bouchaala",
+          "role": "Developpeur",
           "image": "assets/images/layout_img/profile.jpg",
-          "linkdin": "rgt"
+          "linkdin": "aa"
         },
         {
-          "id": 15,
-          "lastName": "seif",
-          "firstName": "chkir",
+          "id": 25,
+          "lastName": "bouchaala",
+          "firstName": "Abdelatif",
           "role": "Team Lead",
           "image": "assets/images/layout_img/profile.jpg",
-          "linkdin": "seifchkir"
+          "linkdin": "c"
         }
       ]
+    },
+    {
+      "name": "olfa Coach",
+      "technology": "Intelligence émotionnelle ",
+      "description": "Gestion du stresse",
+      "image": "assets/images/activite/activite.jpg",
+      "equipe": [
+        {
+          "id": 26,
+          "lastName": "Dammake",
+          "firstName": "Olfa",
+          "role": "Team Lead",
+          "image": "assets/images/layout_img/profile.jpg",
+          "linkdin": "c"
+        }
+      ],
+      "id": "7"
     }
   ],
   "membre": [
@@ -327,24 +320,8 @@
       "linkdin": "defr"
     },
     {
-      "id": 11,
-      "lastName": "roussi",
-      "firstName": "ghjkl",
-      "role": "Technical lead",
-      "image": "assets/images/layout_img/profile.jpg",
-      "linkdin": "gbhnj,ik;l"
-    },
-    {
-      "firstName": "roussi",
-      "lastName": "roussaaaaaaaa",
-      "role": "Technical lead",
-      "image": "assets/images/layout_img/profile.jpg",
-      "linkdin": "c",
-      "id": 13
-    },
-    {
       "id": 14,
-      "firstName": "frgttbg55454",
+      "firstName": "sabouuch",
       "lastName": "bouc",
       "role": "Technical lead",
       "image": "assets/images/layout_img/profile.jpg",
@@ -359,28 +336,60 @@
       "linkdin": "seifchkir"
     },
     {
-      "id": 16,
-      "lastName": "val",
-      "firstName": "vak",
+      "id": 19,
+      "lastName": "salma",
+      "firstName": "bouchaala",
+      "role": "Team Lead",
+      "image": "assets/images/layout_img/profile.jpg",
+      "linkdin": "gbhnj,ik;l"
+    },
+    {
+      "id": 20,
+      "lastName": "dammak",
+      "firstName": "olfa",
+      "role": "Developpeur",
+      "image": "assets/images/layout_img/profile.jpg",
+      "linkdin": "bjnk,l;"
+    },
+    {
+      "id": 21,
+      "lastName": "frgttbg55454",
+      "firstName": "b",
+      "role": "Developpeur",
+      "image": "assets/images/layout_img/profile.jpg",
+      "linkdin": "c"
+    },
+    {
+      "id": 23,
+      "lastName": "Abdelatif",
+      "firstName": "Bouchaala",
       "role": "Technical lead",
       "image": "assets/images/layout_img/profile.jpg",
-      "linkdin": "gbhnj,ik;l"
+      "linkdin": "aa"
     },
     {
-      "id": 17,
-      "lastName": "vak",
-      "firstName": "val",
+      "id": 24,
+      "lastName": "Abdelatif",
+      "firstName": "bouchaala",
       "role": "Developpeur",
       "image": "assets/images/layout_img/profile.jpg",
-      "linkdin": "gbhnj,ik;l"
+      "linkdin": "aa"
     },
     {
-      "id": 18,
-      "lastName": "bouch",
-      "firstName": "abdeltig",
-      "role": "Developpeur",
+      "id": 25,
+      "lastName": "bouchaala",
+      "firstName": "Abdelatif",
+      "role": "Team Lead",
       "image": "assets/images/layout_img/profile.jpg",
-      "linkdin": "gbhnj,ik;l"
+      "linkdin": "c"
+    },
+    {
+      "id": 26,
+      "lastName": "Dammake",
+      "firstName": "Olfa",
+      "role": "Team Lead",
+      "image": "assets/images/layout_img/profile.jpg",
+      "linkdin": "c"
     }
   ],
   "login": [

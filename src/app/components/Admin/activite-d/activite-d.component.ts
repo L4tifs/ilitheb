@@ -69,6 +69,7 @@ export class ActiviteDComponent implements OnInit {
 
   onDeleteP(index: number): void {
     const confirmation = window.confirm('Are you sure about deleting this person?');
+    if (confirmation) {
     if (index >= 0 && index < this.act.equipe.length) {
       const memberId = this.act.equipe[index].id;
       const deletedMember = this.act.equipe.splice(index, 1)[0];
@@ -84,6 +85,7 @@ export class ActiviteDComponent implements OnInit {
         });
       }
     }
+  }
   }
   
 

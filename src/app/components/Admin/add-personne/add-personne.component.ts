@@ -64,7 +64,7 @@ export class AddPersonneComponent implements OnInit {
 
     // Vérifier si le membre existe déjà
     const existingMember = this.lesMembres.find(
-      member => member.lastName === lastName && member.firstName === firstName
+      member => member.lastName.toLowerCase() === lastName.toLowerCase() && member.firstName.toLowerCase() === firstName.toLowerCase()
     );
 
     if (existingMember) {
